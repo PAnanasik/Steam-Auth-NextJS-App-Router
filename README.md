@@ -1,4 +1,4 @@
-# NextJS Simple Steam Authentication
+# Next Simple Steam Authentication
 
 Remember! It's just a simple system without good security methods. Purpose of this project - show example, not ready-made solution
 
@@ -31,5 +31,5 @@ You can also test the web application for `production` if you feel the need.
     $ npm start
     
 ## Improvements To Make
-This is only one example of authenticating a user with their Steam account via NextJS. There are some fixes that can be added to better development and cleanliness without making significant changes. For example, you can add code for https only cookies.
+This is only one example of authenticating a user with their Steam account via Next. There are some fixes that can be added to better development and cleanliness without making significant changes. For example, you can add code for https only cookies.
 
