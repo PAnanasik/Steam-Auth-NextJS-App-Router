@@ -15,7 +15,7 @@ After downloading the project, you should install all of the required dependenci
 
     $ npm install
 
-Fill in a `.env` file with the following keys filled, much like `.env.sample` (Remove `.sample` off the file name)
+Fill in a `.env` file with the following keys filled.
 
     AUTH_SECRET=ABCD # 32+ char random string
     STEAM_API_KEY= # Your Steam API Key
