@@ -1,6 +1,6 @@
 # Next Simple Steam Authentication
 
-Remember! It's just a simple system without good security methods. Purpose of this project - show example, not ready-made solution
+Remember! It's just a simple example.
 
 Key features:
 + 🔒 Steam login 
