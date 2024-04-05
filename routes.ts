@@ -1,19 +1,19 @@
 /**
- * Массив путей, используемых для аутентификации
- * Эти пути перенаправят пользователя на главную страницу "/"
+ * Array of paths used for authentication
+ * These paths will redirect the user to the main page "/"
  * @type {string}
  */
 export const authRoute = "/login";
 
 /**
- * Префикс для API
- * Используются только для API целей
+ * Prefix for API
+ * Used only for API purposes
  * @type {string}
  */
 export const apiAuthPrefix = "/auth/steam";
 
 /**
- * Дефолтный путь после успешной авторизации
+ * Default route after successful authorization
  * @type {string}
  */
 export const DEFAULT_LOGIN_REDIRECT = "/";
